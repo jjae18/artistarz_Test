@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="artistarz.com" id="f869dca9-874d-4f65-9cf9-db8b691a5f0c" keyPath="C:\Users\luke0\Desktop\TeamProject\key\artistar_test_bangju.ppk" port="22" customName="Artistarz" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="Artistarz" />
+      </sshConfig>
+      <sshConfig host="152.67.215.79" id="2fa3a276-ec42-4bb4-bb59-5b5b4cb35edb" keyPath="C:\Users\luke0\Desktop\TeamProject\key\artistar_test_bangju.ppk" port="22" customName="Artistarz_Test" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="Artistarz_Test" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6257937c-8b79-4cb8-947f-0374f7577b67" name="Artistarz_Test">
+        <fileTransfer accessType="SFTP" host="152.67.215.79" port="22" sshConfigId="2fa3a276-ec42-4bb4-bb59-5b5b4cb35edb" sshConfig="Artistarz_Test" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a92a4f24-4976-457c-b1fd-6e89841e3fc6" name="Artistarz">
+        <fileTransfer accessType="SFTP" host="artistarz.com" port="22" sshConfigId="f869dca9-874d-4f65-9cf9-db8b691a5f0c" sshConfig="Artistarz" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
